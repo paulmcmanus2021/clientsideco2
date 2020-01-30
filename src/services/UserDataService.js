@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:3000/api/emissions/users/'
+const baseURL = 'https://co2byu.herokuapp.com/api/heroku_2sb8cf67/users'
 
 export default{
   getUserData(){
